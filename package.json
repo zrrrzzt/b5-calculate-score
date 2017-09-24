@@ -9,6 +9,13 @@
     "email": "geir.gasodden@pythonia.no",
     "url": "https://github.com/zrrrzzt"
   },
+  "contributors": [
+    {
+      "name": "Jonas Enge",
+      "email": "jonas.enge@gmail.com",
+      "url": "https://github.com/maccyber"
+    }
+  ],
   "main": "index.js",
   "engines": {
     "node": ">=8.5.0"
@@ -19,9 +26,7 @@
     "coverage": "nyc ava",
     "coveralls": "nyc ava && nyc report --reporter=lcov && cat coverage/lcov.info | coveralls",
     "setup": "npm install",
-    "standard-fix": "standard --fix",
-    "dev": "micro-dev",
-    "start": "micro"
+    "standard-fix": "standard --fix"
   },
   "keywords": [
     "microservice",
