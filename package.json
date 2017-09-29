@@ -3,7 +3,6 @@
   "description": "micro webservice that evaluates bigfive questions",
   "version": "1.0.0",
   "license": "MIT",
-  "private": true,
   "author": {
     "name": "Geir Gåsodden",
     "email": "geir.gasodden@pythonia.no",
