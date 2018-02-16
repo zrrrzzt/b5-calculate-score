@@ -1,8 +1,6 @@
-'use strict'
-
 const reduceFactors = require('./lib/reduce-factors')
 
-module.exports = data => {
+module.exports = function (data) {
   if (!data) {
     throw new Error('Missing required input')
   }
