@@ -190,8 +190,10 @@ Returns
 
 ## Related
 - [bigfive-web](https://github.com/maccyber/bigfive-web) Web frontend for bigfive tests
+- [b5-web](https://github.com/zrrrzzt/b5-web) Standalone website for bigfive tests
 
 ## License
+
 [MIT](LICENSE)
 
 ## About

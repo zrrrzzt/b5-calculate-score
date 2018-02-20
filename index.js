@@ -1,6 +1,6 @@
 const reduceFactors = require('./lib/reduce-factors')
 
-module.exports = function (data) {
+module.exports = data => {
   if (!data) {
     throw new Error('Missing required input')
   }
