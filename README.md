@@ -1,7 +1,6 @@
 [![Build Status](https://travis-ci.org/zrrrzzt/b5-calculate-score.svg?branch=master)](https://travis-ci.org/zrrrzzt/b5-calculate-score)
 [![Coverage Status](https://coveralls.io/repos/zrrrzzt/b5-calculate-score/badge.svg?branch=master&service=github)](https://coveralls.io/github/zrrrzzt/b5-calculate-score?branch=master)
 [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](https://github.com/feross/standard)
-[![Greenkeeper badge](https://badges.greenkeeper.io/telemark/minelev-logs-stats.svg)](https://greenkeeper.io/)
 
 # b5-calculate-score
 Calculate score for big five tests
