@@ -2,6 +2,10 @@
 [![Coverage Status](https://coveralls.io/repos/zrrrzzt/b5-calculate-score/badge.svg?branch=master&service=github)](https://coveralls.io/github/zrrrzzt/b5-calculate-score?branch=master)
 [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](https://github.com/feross/standard)
 
+# Moved to Alheimsins
+
+This repo is no longer maintained. Follow the module to it's new home [bigfive-calculate-score](https://github.com/Alheimsins/bigfive-calculate-score)
+
 # b5-calculate-score
 Calculate score for big five tests
 
@@ -194,10 +198,3 @@ Returns
 ## License
 
 [MIT](LICENSE)
-
-## About
-
-Created with <3 by [zrrzzt](https://github.com/zrrrzzt) and [maccyber](https://github.com/maccyber)
-
-![alt text](https://robots.kebabstudios.party/zrrrzzt.png "Robohash image of zrrrzzt") 
-![alt text](https://robots.kebabstudios.party/maccyber.png "Robohash image of maccyber")

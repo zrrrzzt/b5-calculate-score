@@ -1,6 +1,6 @@
 {
   "name": "b5-calculate-score",
-  "description": "micro webservice that evaluates bigfive questions",
+  "description": "Calculate score for big five tests",
   "version": "1.0.4",
   "license": "MIT",
   "author": {
